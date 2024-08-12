@@ -10,10 +10,10 @@ git clone https://github.com/qwexsa1/trojan-creator.git
 cd trojan-creator
 ```
 ```
-chmod +x tronix.py
+chmod +x trojanix.py
 ```
 ```
-python3 tronix.py
+python3 trojanix.py
 ```
 
 NOTE: JUST USE FOR ETHICAL ISSUES
